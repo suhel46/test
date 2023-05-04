@@ -4,7 +4,7 @@
 	  <groupId>c8y.example</groupId>
 	 <!-- <artifactId>hello-microservice-java</artifactId> -->
 	  <packaging>jar</packaging>
-	  <version>1.0.0-SNAPSHOT</version>
+	  <version>1.0</version>
 	 <!-- <name>hello-microservice-java</name> -->
 	 <name>iptracker-microservice</name>
 	 <artifactId>iptracker-microservice</artifactId>
